@@ -1,4 +1,4 @@
-# Titanic-Study-Case
+# Titanic-Case-Study
 
 We all know about the Titanic disaster. The ship collided with an iceberg during its maiden voyage from Southampton to New York City. There were an estimated 2,224 passengers and crew aboard the ship, and more than 1,500 died, making it one of the deadliest disasters in modern history.
 
